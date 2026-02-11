@@ -1,6 +1,8 @@
 langchain
 langchain-core
 langchain-ollama
+langchain_huggingface
+langchain_groq
 streamlit
 python-dotenv
 langserve
