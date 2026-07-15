@@ -1,6 +1,6 @@
 # 🚀 LangChain Projects Collection
 
-This repository contains my hands-on exploration and implementation of \*\*LangChain\*\*, focusing on building intelligent AI applications using Large Language Models (LLMs).
+This repository contains my hands-on exploration and implementation of **LangChain**, focusing on building intelligent AI applications using Large Language Models (LLMs).
 
 ---
 
